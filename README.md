@@ -31,7 +31,7 @@ This study aims to delve into the intricacies of hotel booking cancellations, id
 **Frequent Feedback Gathering:** Regularly ask for feedback from customers to understand their needs better and identify areas for improvement in products and services.
 
 # Conclusion
-The Hotel Booking Analysis EDA project provided valuable insights into the hotel's booking data, allowing for data-driven decision-making and customer-centric strategies. By understanding booking patterns and factors influencing cancellations, the hotel can optimize operations, enhance customer experience, and increase overall profitability.
+The Hotel Booking Analysis Exploratory Data Analysis Project provided valuable insights into the hotel's booking data, allowing for data-driven decision-making and customer-centric strategies. By understanding booking patterns and factors influencing cancellations, the hotel can optimize operations, enhance customer experience, and increase overall profitability.
 
 
 
