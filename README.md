@@ -4,7 +4,7 @@ Conducted Exploratory Data Analysis to gain comprehensive insights into the Hote
 # Project Summary
 The Hotel Booking Analysis Exploratory Data Analysis project is aimed to explore and analyze hotel booking data to gain insights into booking cancellation trends, identify factors influencing cancellations, and provide actionable recommendations to reduce cancellations and improve overall customer satisfaction.
 
-Data Collection: The project utilized a comprehensive dataset containing information about hotel bookings, including booking dates, lead time, customer type, market segment, distribution channel,special requests, and reservation status etc
+Data Collection: The project utilized a comprehensive dataset containing information about hotel bookings, including booking dates, lead time, customer type, market segment, distribution channel,special requests, and reservation status etc.
 
 Booking Cancellation Trends: Investigated the overall booking cancellation rates and analyzed their distribution over time to identify any patterns that are leading to cancellation.
 
